@@ -16,7 +16,7 @@ turtle绘图的动画展示基于窗口，只能运行一次看一次，而录�
 
 2. 下载代码：执行以下命令
 
-   `git clone `
+   `git clone https://github.com/zouyansong/Ultraman.git`
 
 3. 直接运行Ultraman.py文件即可
 
